@@ -76,9 +76,9 @@ streamlit run app.py
 ```
 
 ## **Results & Business Impact**
-✅ **Achieved 85% accuracy** in predicting supplier risk.
-✅ **Reduced high-risk supplier selection by 40%**, improving procurement efficiency.
-✅ **Built an interactive Power BI dashboard** for real-time supplier risk monitoring.
+   **Achieved 85% accuracy** in predicting supplier risk.
+   **Reduced high-risk supplier selection by 40%**, improving procurement efficiency.
+   **Built an interactive Power BI dashboard** for real-time supplier risk monitoring.
 
 ## **Future Enhancements**
 🔹 Incorporate **real-time supplier performance tracking** via API integrations.
